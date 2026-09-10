@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "ax402": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@ax402/mcp-server"]
+    }
+  }
+}
