@@ -14,7 +14,8 @@ this plugin does not ship secrets.
 ## Required
 
 1. Create a scoped API key in the [Ax402 dashboard](https://ax402.io).
-2. Set `AX402_API_KEY` to that value (`ax402_live_...` or `ax402_test_...`).
+2. Set `AX402_API_KEY` to that value (`ax402_live_...` or `ax402_sandbox_...`).
+   An `ax402_sandbox_...` key selects Sandbox automatically; `AX402_ENVIRONMENT` is optional.
 
 Optional:
 

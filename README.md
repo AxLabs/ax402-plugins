@@ -46,7 +46,7 @@ claude plugin install ax402@ax402-plugins
 
 | Variable | Required | Purpose |
 |----------|----------|---------|
-| `AX402_API_KEY` | Yes | `ax402_live_...` or `ax402_test_...` |
+| `AX402_API_KEY` | Yes | `ax402_live_...` or `ax402_sandbox_...` |
 | `AX402_BASE_URL` | No | Default `https://api.ax402.io` |
 | `AX402_ENVIRONMENT` | No | `development` for Sandbox / Test mode |
 
