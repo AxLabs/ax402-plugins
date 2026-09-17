@@ -19,6 +19,13 @@ Set `AX402_API_KEY` from the [Ax402 dashboard](https://ax402.io). Optional `AX40
 
 Do not commit keys. Do not put wallet private keys in plugin config.
 
+## Workflows
+
+The plugin includes focused skills for setup, API wrapping, endpoint pricing,
+OpenAPI discovery, custom domains, CORS, Sandbox, buyer inspect/pay, and
+analytics. Slash commands: `/wrap`, `/price`, `/discover`, `/domain`,
+`/inspect`, `/cors`.
+
 ## Local test
 
 ```bash

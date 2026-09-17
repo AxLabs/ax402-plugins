@@ -26,7 +26,7 @@
       "AX402_API_KEY": {
         "type": "string",
         "title": "Ax402 API key",
-        "description": "Scoped key from the Ax402 dashboard (ax402_live_... or ax402_test_...)."
+        "description": "Scoped key from the Ax402 dashboard (ax402_live_... or ax402_sandbox_...)."
       },
       "AX402_BASE_URL": {
         "type": "string",
